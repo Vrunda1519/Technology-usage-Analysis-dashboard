@@ -5,117 +5,53 @@ Interactive technology usage dashboard built with IBM Cognos Analytics using sur
 
 ## 📌 Project Overview
 
-This project focuses on analyzing technology usage trends using survey data and presenting the findings through an interactive dashboard created in **IBM Cognos Analytics**.
+This project analyzes technology usage trends using survey data and presents the findings through a dashboard created in **IBM Cognos Analytics**.
 
-The dashboard provides insights into the technologies respondents have worked with, including programming languages, databases, platforms, and other technology categories. The project demonstrates how raw survey data can be transformed into clear and meaningful visual insights using data visualization techniques.
-
-> **Note:** This project was completed as part of the **IBM Data Analyst Professional Certificate on Coursera**.
-
----
+The project was completed as part of the **IBM Data Analyst Professional Certificate on Coursera** and demonstrates practical skills in data analysis, data visualization, and dashboard development.
 
 ## 🎯 Project Objectives
 
 The main objectives of this project were to:
 
 * Analyze survey data related to technology usage.
-* Identify the most commonly used technologies.
-* Determine the top platforms respondents have worked with.
-* Analyze database and programming language usage.
-* Create clear and effective data visualizations.
-* Build an interactive dashboard using IBM Cognos Analytics.
-* Communicate insights through charts, labels, colors, and appropriate titles.
-
----
-
-## 🗂️ Dataset
-
-The analysis uses the following dataset:
-
-**`survey_data_updated.csv`**
-
-The dataset contains survey responses related to respondents' technology experience and usage.
-
-The data includes information about areas such as:
-
-* Programming languages
-* Databases
-* Platforms
-* Technology usage
-* Other technology-related survey responses
-
-The dataset was provided as part of the course project.
-
----
+* Identify commonly used technologies.
+* Analyze programming language, database, and platform usage.
+* Create clear and meaningful visualizations.
+* Present key findings through an interactive dashboard.
+* Apply data visualization principles to communicate insights effectively.
 
 ## 🛠️ Tools & Technologies
 
-| Tool / Technology        | Purpose                                         |
-| ------------------------ | ----------------------------------------------- |
-| **IBM Cognos Analytics** | Dashboard creation and visualization            |
-| **CSV**                  | Source dataset                                  |
-| **Data Visualization**   | Presenting technology usage trends              |
-| **Data Analysis**        | Aggregation, filtering, ranking, and comparison |
+* **IBM Cognos Analytics** – Dashboard creation and data visualization
+* **CSV** – Source dataset
+* **Data Analysis** – Filtering, aggregation, ranking, and comparison
+* **Data Visualization** – Presenting survey results
 
----
+## 📂 Project Files
 
-## 📊 Dashboard
+### `survey_data_updated.csv`
 
-The completed dashboard was developed using **IBM Cognos Analytics**.
+The dataset used for the technology usage analysis. It contains survey responses related to respondents' experience and usage of different technologies.
 
-The dashboard includes visualizations such as:
+### `Technology_Usage_Dashboard.pdf`
 
-* Top programming languages respondents have worked with
-* Top databases respondents have worked with
-* Top platforms respondents have worked with
-* Technology usage comparisons
-* Other survey-based technology metrics
+The completed dashboard created using IBM Cognos Analytics. It contains the final visualizations and results from the analysis.
 
-### Dashboard Preview
+## 📊 Dashboard Analysis
 
-![Technology Usage Dashboard](dashboard/dashboard_screenshot.png)
+The dashboard presents insights into technology usage based on survey responses.
 
----
+The analysis includes areas such as:
 
-## 🔍 Key Analysis
+* Programming languages respondents have worked with
+* Databases respondents have worked with
+* Platforms respondents have worked with
+* Top technology categories
+* Comparisons of technology usage
 
-The dashboard uses survey responses to identify and compare technology usage across different categories.
-
-### Top Platforms
-
-One of the visualizations highlights the **Top 10 Platforms respondents have worked with**. The platforms are ranked based on the number of survey respondents reporting experience with each platform.
-
-The visualization uses:
-
-* Bar length to compare values
-* Data labels to display the actual values
-* Color to improve visual distinction
-* Ranking to make the most-used platforms easy to identify
-
-### Technology Usage
-
-The dashboard allows users to quickly compare different technology categories and understand which technologies are most commonly reported by survey respondents.
-
----
-
-## 📈 Visualization Techniques
-
-The dashboard demonstrates several data visualization principles, including:
-
-* Bar charts for comparing categories
-* Ranking to highlight the most common technologies
-* Data labels for displaying values
-* Appropriate chart titles
-* Effective use of color
-* Clear category labels
-* Consistent dashboard layout
-
-These techniques were used to make the dashboard easy to read and interpret.
-
----
+The visualizations use bar charts, rankings, data labels, colors, and clear titles to make the results easy to understand.
 
 ## 💡 Skills Demonstrated
-
-Through this project, I demonstrated skills in:
 
 * Data Analysis
 * Data Visualization
@@ -127,62 +63,32 @@ Through this project, I demonstrated skills in:
 * Survey Data Analysis
 * Visual Storytelling
 * Dashboard Design
-* Communicating Data Insights
-
----
 
 ## 📚 Course Context
 
 **Course:** IBM Data Analyst Professional Certificate
 **Platform:** Coursera
 **Project Area:** Data Visualization & Dashboarding
-**Visualization Tool:** IBM Cognos Analytics
+**Tool:** IBM Cognos Analytics
 
-This project was completed as a practical exercise within the course to apply data analysis and visualization concepts to a real-world survey dataset.
+This project was completed as a practical learning project to apply data analysis and visualization concepts to survey data.
 
----
+## 📌 Key Takeaway
 
-## 📁 Repository Structure
-
-```text
-Technology-Usage-Analysis-Dashboard/
-│
-├── README.md
-│
-├── survey_data_updated.csv
-│
-├── dashboard/
-│   └── dashboard_screenshot.png
-│
-└── instructions/
-    └── project_instructions.pdf
-```
-
----
-
-## 🚀 How to Explore the Project
-
-1. Download or clone this repository.
-2. Review the `survey_data_updated.csv` dataset.
-3. Review the project instructions included in the `instructions` folder.
-4. Open the dashboard screenshot in the `dashboard` folder.
-5. Review the visualizations and analysis presented in the dashboard.
-
-The dashboard itself was created using **IBM Cognos Analytics**.
-
----
-
-## 📌 Project Takeaway
-
-This project demonstrates how survey data can be transformed into an interactive and visually engaging dashboard. By using appropriate charts, rankings, labels, and visual formatting, the dashboard makes it easier to identify patterns and understand technology usage trends.
-
----
+This project demonstrates how survey data can be transformed into meaningful visual insights through data analysis and dashboard visualization. The completed dashboard provides an easy-to-understand view of technology usage trends.
 
 ## 👩‍💻 Author
 
 **Vrunda Shastri**
 
-**Aspiring Data Analyst**
+Aspiring Data Analyst
 
 **Skills:** SQL | Python | Excel | IBM Cognos Analytics | Data Visualization
+
+
+
+---
+
+
+
 
